@@ -1,13 +1,59 @@
-# lthwqsharp
-Learn The Hard Way - Q# (Q sharp)
+# Learn The Hard Way - Q# (Q sharp)
+A Clone of [Learn Code The Hard Way](https://learncodethehardway.org/) series by [Zed A. Shaw](https://zedshaw.com/)
 
 ##Exercise 0: The Setup
 
-`PS D:\projects\lthwqsharp> dotnet tool install -g Microsoft.Quantum.IQSharp`
-`You can invoke the tool using the following command: dotnet-iqsharp`
-`Tool 'microsoft.quantum.iqsharp' (version '0.6.1905.301') was successfully installed.`
+##Exercise 1: A Good First Program
 
-`PS D:\projects\lthwqsharp> dotnet iqsharp --version`
-`Language kernel: 0.6.1905.301`
-`Jupyter core: 1.1.13141.0`
-`PS D:\projects\lthwqsharp>`
+##Exercise 2: Comments And Pound Characters
+
+##Exercise 3: Numbers And Math
+##Exercise 4: Variables And Names
+##Exercise 5: More Variables And Printing
+##Exercise 6: Strings And Text
+##Exercise 7: More Printing
+##Exercise 8: Printing, Printing
+##Exercise 9: Printing, Printing, Printing
+##Exercise 10: What Was That?
+##Exercise 11: Asking Questions
+##Exercise 12: Prompting People
+##Exercise 13: Parameters, Unpacking, Variables
+##Exercise 14: Prompting And Passing
+##Exercise 15: Reading Files
+##Exercise 16: Reading And Writing Files
+##Exercise 17: More Files
+##Exercise 18: Names, Variables, Code, Functions
+##Exercise 19: Functions And Variables
+##Exercise 20: Functions And Files
+Exercise 21: Functions Can Return Something
+Exercise 22: What Do You Know So Far?
+Exercise 23: Read Some Code
+Exercise 24: More Practice
+Exercise 25: Even More Practice
+Exercise 26: Congratulations, Take A Test!
+Exercise 27: Memorizing Logic
+Exercise 28: Boolean Practice
+Exercise 29: What If
+Exercise 30: Else And If
+Exercise 31: Making Decisions
+Exercise 32: Loops And Arrays
+Exercise 33: While Loops
+Exercise 34: Accessing Elements Of Arrays
+Exercise 35: Branches and Functions
+Exercise 36: Designing and Debugging
+Exercise 37: Symbol Review
+Exercise 38: Doing Things To Arrays
+Exercise 39: Dictionaries, Oh Lovely Dictionaries
+Exercise 40: Modules, Classes, And Objects
+Exercise 41: Learning To Speak Object Oriented
+Exercise 42: Is-A, Has-A, Objects, and Classes
+Exercise 43: Gothons From Planet Percal #25
+Exercise 44: Inheritance Vs. Composition
+Exercise 45: You Make A Game
+Exercise 46: A Project Skeleton
+Exercise 47: Automated Testing
+Exercise 48: Advanced User Input
+Exercise 49: Making Sentences
+Exercise 50: Your First Website
+Exercise 51: Getting Input From A Browser
+Exercise 52: The Start Of Your Web Game

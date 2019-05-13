@@ -1,0 +1,11 @@
+D:\projects\lthwqsharp\helloQSharp\bin\Debug\netcoreapp2.0\helloQSharp.deps.json
+D:\projects\lthwqsharp\helloQSharp\bin\Debug\netcoreapp2.0\helloQSharp.runtimeconfig.json
+D:\projects\lthwqsharp\helloQSharp\bin\Debug\netcoreapp2.0\helloQSharp.runtimeconfig.dev.json
+D:\projects\lthwqsharp\helloQSharp\bin\Debug\netcoreapp2.0\helloQSharp.dll
+D:\projects\lthwqsharp\helloQSharp\bin\Debug\netcoreapp2.0\helloQSharp.pdb
+D:\projects\lthwqsharp\helloQSharp\obj\Debug\netcoreapp2.0\helloQSharp.csprojAssemblyReference.cache
+D:\projects\lthwqsharp\helloQSharp\obj\Debug\netcoreapp2.0\helloQSharp.csproj.CoreCompileInputs.cache
+D:\projects\lthwqsharp\helloQSharp\obj\Debug\netcoreapp2.0\helloQSharp.AssemblyInfoInputs.cache
+D:\projects\lthwqsharp\helloQSharp\obj\Debug\netcoreapp2.0\helloQSharp.AssemblyInfo.cs
+D:\projects\lthwqsharp\helloQSharp\obj\Debug\netcoreapp2.0\helloQSharp.dll
+D:\projects\lthwqsharp\helloQSharp\obj\Debug\netcoreapp2.0\helloQSharp.pdb
